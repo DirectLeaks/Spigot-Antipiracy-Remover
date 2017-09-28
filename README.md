@@ -1,2 +1,2 @@
 # Spigot-Antipiracy-Remover
-@c00lman's Spigot Antipiracy Remover
+@c001man's Spigot Antipiracy Remover
